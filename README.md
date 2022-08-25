@@ -3,8 +3,11 @@
 ## 💻 Sobre o Teste
 
 Tarefa 1. Conversor de números romanos: A sua tarefa será fazer um conversor de números romanos para arábicos e vice-versa. Para a tarefa, considerar apenas números inteiros positivos entre 1 e 3999.
+<br><br>
 Tarefa 2. Jogo da vida: A sua tarefa será implementar um tabuleiro interativo do jogo da vida de Conway. Considerar um tabuleiro composto por pelo menos 10 células de largura e altura.
+<br><br>
 Tarefa 3. Divisor de conta de restaurante: A sua tarefa será criar uma calculadora capaz de dividir a conta de um estabelecimento para cada cliente considerando somente o consumido por cada um. Considerar que a calculadora somente faz a divisão de uma conta por vez.
+<br><br>
 
 - Deve ser possível inserir múltiplos produtos e clientes;
 - Um cliente pode ter consumido vários, um ou nenhum produto;
