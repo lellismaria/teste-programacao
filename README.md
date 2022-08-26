@@ -28,6 +28,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🖥️ Demonstração
 
 - <a href="https://romanos-numeros.vercel.app/">Tarefa 1.</a> Conversor de números romanos.
+- <a href="https://game-of-liffe.vercel.app/">Tarefa 2.</a> Jogo da Vida
 
 ---
 
