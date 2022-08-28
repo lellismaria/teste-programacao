@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - <a href="https://romanos-numeros.vercel.app/">Tarefa 1.</a> Conversor de números romanos.
 - <a href="https://game-of-liffe.vercel.app/">Tarefa 2.</a> Jogo da Vida.
-- <a href="#">Tarefa 3.</a> Divisor de conta de restaurante.
+- <a href="https://divisor-de-conta.vercel.app/">Tarefa 3.</a> Divisor de conta de restaurante.
 
 ---
 
